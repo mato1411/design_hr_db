@@ -10,7 +10,7 @@ This project is about designing an HR Database, which was submitted for Udacity'
 ### Data
 [hr-dataset.csv](data/hr-dataset.csv): Input data provided by Udacity exported to csv-flat file
 
-## ERD
+### ERD
 See directory [erd/](erd/) for Conceptual, Logical and Physical ERD created using Lucidchart.
 
 ### SQL
